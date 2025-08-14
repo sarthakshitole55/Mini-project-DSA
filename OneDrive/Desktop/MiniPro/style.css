@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+#treeCanvas {
+  border: 1px solid black;
+}
